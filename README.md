@@ -51,20 +51,26 @@ Git & GitHub • Docker • IntelliJ IDEA • Postman
 ### 🧪 Projetos em Destaque
 
 📌 **Digital Store**
+
 Plataforma de e-commerce moderna, responsiva e interativa, focada em performance e experiência do usuário. O projeto inclui fluxo completo de compra, painel administrativo com gestão de pedidos/produtos, rastreamento de entregas, autenticação e interface premium com tema claro/escuro.
 
 **Tecnologias:** React • TypeScript • Vite • Tailwind CSS • Supabase • Framer Motion
 
+
 📌 **Loja Artisean**  
+
 A loja digital Artisean é uma landing page voltada para apresentação profissional de produtos do e-commerce. A proposta é oferecer uma navegação clara, visual e moderna, além do destaque para cada produto, fortalecendo a presença digital do vendedor.
 
 **Tecnologias:** React 19 • TypeScript • Vite • Tailwind CSS • Next.js • Supabase • Python 
 
+
 📌 **Safemind**  
+
 Este projeto foi desenvolvido para apoiar a identificação e o acompanhamento de riscos psicossociais no ambiente de trabalho. A aplicação centraliza dados, facilita o monitoramento de indicadores e contribui para ações preventivas com foco em saúde mental, bem-estar e conformidade com práticas de gestão de pessoas.
 
 **Tecnologias:**  
 React • TypeScript • Vite • Tailwind CSS • PL/pgSQL 
+
 
 
 ---
